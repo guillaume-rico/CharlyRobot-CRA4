@@ -2,7 +2,13 @@
 
 # Carte de puissance
 
+Analyse de la carte de puissance :
 
+![Description Carte de puissance](/Photos/Carte_puissance_top_explications.JPG.jpg)
+
+[Schématique](/carte_puissance/carte_puissance_schematique.pdf)
+
+[PCB](/carte_puissance/carte_puissance_PCB.pdf)
 
 # Indicateurs lumineux
 
