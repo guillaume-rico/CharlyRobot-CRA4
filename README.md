@@ -6,6 +6,16 @@ Analyse de la carte de puissance :
 
 ![Description Carte de puissance](/Photos/Carte_puissance_top_explications.JPG.jpg)
 
+ALIM 1 :
+
+ * Tension sortie transformateur : 23.6VAC
+ * Tension sortie : 31VDC
+
+ALIM 2 :
+
+ * Tension sortie transformateur : 21VAC
+ * Tension sortie : 28VDC
+
 [Schématique](/carte_puissance/carte_puissance_schematique.pdf)
 
 [PCB](/carte_puissance/carte_puissance_PCB.pdf)
