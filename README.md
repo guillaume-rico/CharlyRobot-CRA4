@@ -6,11 +6,12 @@
 
 # Indicateurs lumineux
 
-![Témoins Lumineux](relative/temoins_lumineux.jpg)
+![Témoins Lumineux](/Photos/temoins_lumineux.jpg)
 
 Tension d'alimentation : 12VDC -> 32VDC
 
 | Témoin | Couleur fil |
+| ------------- | ------------- |
 | Masse commune | Noir |
 | Alimentation électrique | Rouge |
 | Alarme | Jaune / Noir |
