@@ -25,6 +25,9 @@ ALIM 2 :
 ![Témoins Lumineux](/Photos/temoins_lumineux.jpg)
 
 Tension d'alimentation : 12VDC -> 32VDC
+Courant : 
+ * 6mA pour 12VDC
+ * 20mA pour 30VDC
 
 | Témoin | Couleur fil |
 | ------------- | ------------- |
@@ -37,5 +40,3 @@ Tension d'alimentation : 12VDC -> 32VDC
 | X Ok | Marron |
 | Y Ok | Vert |
 | Z Ok | Bleu |
-| Z Ok | Bleu |
-
