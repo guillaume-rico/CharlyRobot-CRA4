@@ -40,3 +40,32 @@ Courant :
 | X Ok | Marron |
 | Y Ok | Vert |
 | Z Ok | Bleu |
+
+# Carte de commande
+
+![commande_finie](/Photos/commande_finie.JPG)
+
+
+La position des capteurs fin de course (1 seul par axe) :
+
+![commande_finie](/Photos/position_fin_de_course.jpg)
+
+## Drivers commande moteur pas à pas 
+
+C'est des drivers TB6600.
+4 microstep (donc 800 steps par tour).
+3A pour X et Y , 2A pour Z
+
+Positionnement des switch :
+
+| Switch | Valeur |
+| ------------- | ------------- |
+| S1 | ON |
+| S2 | OFF |
+| S3 | OFF |
+| S4 | Z : ON |
+| S5 | Y et Y : ON |
+| S6 | OFF |
+
+
+
